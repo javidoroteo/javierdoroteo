@@ -1,7 +1,7 @@
 const uiStrings = {
     es: {
         hero_hello: "Hola, soy",
-        hero_role: "Trader independiente, Especialista en Finanzas & Cripto",
+        hero_role: "Inversor independiente, Especialista en Finanzas & Cripto",
         hero_bio: "Emprendedor proactivo y aprendiz constante. Fusiono mi base analítico-financiera y mi experiencia en cripto con el aprendizaje de nuevas tecnologias-programación e IA. Construyendo en abierto (GitHub) y compartiendo ideas (X).",
         nav_experience: "Experiencia Profesional",
         nav_education: "Educación",

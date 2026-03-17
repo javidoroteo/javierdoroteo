@@ -2,7 +2,7 @@ const portfolioData = {
     es: {
         experience: [
             {
-                role: "Trader independiente",
+                role: "Inversor independiente",
                 company: "FTMO",
                 period: "Nov 2024 - Presente",
                 description: [
